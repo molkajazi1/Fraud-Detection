@@ -13,7 +13,7 @@ After downloading, place the files in the appropriate directory within the proje
 
 The trained model file is too large for direct inclusion in this repository. You can download it using the link below:
 
-- [Download The Trained Model's File]([https://drive.google.com/uc?export=download&id=1eWLIUHOqARxNSTlqAs948v94BsjnHWTH](https://drive.google.com/uc?export=download&id=1sEftjzTxyiTvs-kASZau8HuFU90czA5Z)
+- [Download The Trained Model's File](https://drive.google.com/uc?export=download&id=1sEftjzTxyiTvs-kASZau8HuFU90czA5Z)
 
 
 
